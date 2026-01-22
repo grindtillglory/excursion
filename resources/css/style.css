@@ -10,8 +10,22 @@ body {
     color: #ffffff;
 }
 
+.second-head {
+    font-weight: 300;
+    font-size: 42px;
+    color: #ffffff;
+}
+
+.tagline {
+    font-size: 21px;
+    color: grey;
+}
+
 .link {
     color: aquamarine;
     font-weight: normal;  
     font-size: 16px;
 }
+
+
+
